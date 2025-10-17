@@ -29,7 +29,7 @@ I am interested in building scalable and efficient learning models, exploring th
 
 ### 📊 Stats
 
-![Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=143nmk&show_icons=true&theme=gruvbox)
+![Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=143nmk&show_icons=true&theme=highcontrast)
 
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=143nmk&theme=gruvbox&border_radius=4.5) -->
